@@ -1,16 +1,8 @@
-# bookappapi
 
-A new Flutter project.
 
-## Getting Started
+<h1>Google Book APi <h1>
+  <h6>Searching books using APi<h6>
+<img src="https://user-images.githubusercontent.com/97346744/169652860-16bb57da-9eb1-4817-8c99-a7d7d6457447.png" alt="screen2" style="width:200px; height=300px;" >
+<h6>Fetching data using Google Book APi<h6>
+<img src="https://user-images.githubusercontent.com/97346744/169652855-0931024a-0c05-43d8-aa73-f46f28ef62ca.png" alt="screen2" style="width:200px; height=300px;" >
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
